@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NoorHashmi
-- 👀 I’m interested in stuff.
-- 🌱 I’m currently learning how to code.
-- 💞️ I’m looking to collaborate on simple projects for now.
-- 📫 How to reach me ... Here? 
+- 🌱 I’m currently working on small projects. Ideally, just one week long.
+- 💞️ I'm looking to collaborate in medium sized projects (one month long).
+- I do not multi-task. One project at a time. You may contact for availability.
+- 📫 How to reach me ? Here, for now.
 
 <!---
 NoorHashmi/NoorHashmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
